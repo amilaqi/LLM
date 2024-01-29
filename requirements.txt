@@ -1,0 +1,15 @@
+html2text
+wikitextparser
+tqdm
+pandas
+pdfminer.six
+pdf2image
+Pillow
+PyPDF2
+pdfplumber
+urlextract
+pytesseract
+gdown
+kaggle
+tokenizers
+transformers
